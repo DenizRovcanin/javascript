@@ -2308,19 +2308,6 @@ Other Style Guides
     export default makeStyleGuide;
     ```
 
-  <a name="naming--PascalCase-singleton"></a><a name="22.8"></a>
-  - [22.8](#naming--PascalCase-singleton) Use PascalCase when you export a singleton / function library / bare object.
-
-    ```javascript
-    const AirbnbStyleGuide = {
-      es6: {
-      }
-    };
-
-    export default AirbnbStyleGuide;
-    ```
-
-
 **[⬆ back to top](#table-of-contents)**
 
 
