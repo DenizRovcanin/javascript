@@ -14,6 +14,11 @@ Other Style Guides
  - [React](react/)
  - [CSS & Sass](https://github.com/airbnb/css)
 
+Best practices, tips and tricks
+
+ - [Async/Await](async-await/)
+ - RestAPI
+
 ## Table of Contents
 
   1. [Types](#types)
